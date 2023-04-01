@@ -1,2 +1,2 @@
-My first readme
-My second commit
+I am a software programmer
+
